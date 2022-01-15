@@ -188,7 +188,7 @@ Escaped Characters describes the escaped characters supported in JMP. \C, \G, \X
 
 Highly motivated IT Support professional with a working knowledge of common information technologies and systems management. Strong customer service and communication skills. Skilled in troubleshooting common IT problems in a fast-paced environment and rapidly adapting and mastering diverse new technologies and techniques.
 
-<https://github.com/LuiGonz>
-<https://www.linkedin.com/in/lugonzales/>
-<https://luigonz.github.io/portfolio-project/?raw=true>
+- https://github.com/LuiGonz
+- https://www.linkedin.com/in/lugonzales/
+- https://luigonz.github.io/portfolio-project/?raw=true
 
